@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sport_options">
+        <item>@string/pref_sport_label_foot</item>
+        <item>@string/pref_sport_label_rugby</item>
+        <item>@string/pref_sport_label_auto</item>
+        <item>@string/pref_sport_label_f1</item>
+        <item>@string/pref_sport_label_tennis</item>
+        <item>@string/pref_sport_label_basket</item>
+        <item>@string/pref_sport_label_hand</item>
+    </string-array>
+
+    <string-array name="pref_sport_values">
+        <item>@string/pref_sport_foot</item>
+        <item>@string/pref_sport_rugby</item>
+        <item>@string/pref_sport_auto</item>
+        <item>@string/pref_sport_f1</item>
+        <item>@string/pref_sport_tennis</item>
+        <item>@string/pref_sport_basket</item>
+        <item>@string/pref_sport_hand</item>
+    </string-array>
+</resources>
